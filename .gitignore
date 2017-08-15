@@ -1,0 +1,9 @@
+
+/lispy
+
+*~
+*.o
+
+GPATH
+GRTAGS
+GTAGS

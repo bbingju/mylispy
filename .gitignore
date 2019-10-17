@@ -4,6 +4,8 @@
 *~
 *.o
 
+.ccls-cache/
+
 GPATH
 GRTAGS
 GTAGS
